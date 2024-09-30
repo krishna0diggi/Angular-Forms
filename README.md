@@ -52,7 +52,7 @@ The `onSubmit` function handles form submission:
 
 ### Display Results
 
-## Customization![AfterFillingInput](https://github.com/user-attachments/assets/6262afa5-f1c7-4970-a4f6-01491d09a88b)
+![AfterFillingInput](https://github.com/user-attachments/assets/6262afa5-f1c7-4970-a4f6-01491d09a88b)
 
 ![output](https://github.com/user-attachments/assets/2c5ad182-fd11-4883-a4db-996d1bfddb18)
 
