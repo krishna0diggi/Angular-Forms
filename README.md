@@ -69,11 +69,3 @@ Once the form is submitted, the application dynamically displays the submitted d
 
 
 Feel free to modify the form fields, styles, or validation logic as needed. You can also implement local storage to save submitted data across sessions.
-
-## License
-
-This project is open-source and available under the MIT License.
-
----
-
-For further assistance, please refer to the Angular documentation or open an issue in the repository. Happy coding!
