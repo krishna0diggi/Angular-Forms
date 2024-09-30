@@ -52,6 +52,11 @@ The `onSubmit` function handles form submission:
 
 ### Display Results
 
+## Customization![AfterFillingInput](https://github.com/user-attachments/assets/6262afa5-f1c7-4970-a4f6-01491d09a88b)
+
+![output](https://github.com/user-attachments/assets/2c5ad182-fd11-4883-a4db-996d1bfddb18)
+
+
 Once the form is submitted, the application dynamically displays the submitted data in JSON format below the form, allowing users to review their input.
 
 ## Usage
@@ -60,7 +65,8 @@ Once the form is submitted, the application dynamically displays the submitted d
 2. Click the "Submit" button to display the entered data below the form.
 3. The form resets after submission, allowing for new entries.
 
-## Customization
+
+
 
 Feel free to modify the form fields, styles, or validation logic as needed. You can also implement local storage to save submitted data across sessions.
 
