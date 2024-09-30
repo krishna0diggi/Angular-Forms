@@ -31,6 +31,29 @@ This application is a simple user form built with Angular, allowing users to inp
 3. Run the application using `ng serve`.
 4. Open your browser and navigate to `http://localhost:4200`.
 
+## Main Functions
+
+### Validation
+
+The application uses Angular's reactive forms to validate user input. Each field is checked to ensure it meets the following criteria:
+
+- **Name and Username**: Required fields.
+- **Email**: Must be a valid email format and is required.
+- **Address Fields**: Street, City, and Zipcode are required, while Suite is optional.
+
+### Submit Function
+
+The `onSubmit` function handles form submission:
+
+- **Form Validation**: Checks if the form is valid before proceeding.
+- **Data Storage**: If valid, the submitted data is added to an array for display.
+- **Form Reset**: After successful submission, the form is reset for new entries.
+- **Error Handling**: Logs an error message if the form is invalid.
+
+### Display Results
+
+Once the form is submitted, the application dynamically displays the submitted data in JSON format below the form, allowing users to review their input.
+
 ## Usage
 
 1. Fill in the form fields (Name, Username, Email, Address).
